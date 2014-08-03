@@ -1,0 +1,17 @@
+*.class
+.classpath
+.project
+.settings/
+.svn/
+*.iml
+target/
+docs/
+bin/
+corpus/
+temp/
+test/
+*.txt
+# Package Files #
+*.war
+*.ear
+*.log
